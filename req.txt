@@ -9,5 +9,12 @@ A free creating Account System, with a profile with Username, Nickname, Profile 
 Users can create their own "Vaults," which are similar to Discord Servers, but with a Different Name. These Vaults have their own Vault Image for their icon, and a Vault Theme they can select from. Here are the Vault Themes they have to choose from: Basic Vault, Gaming Vault, Emoji Vault, Movie Vault, Pet Vault, Voice Chat Vault, Active Vault, and Build your own Vault. You can only build 5 Vaults on each account.  
 On the Vaults, you can add your own Channels with their own names, and you can add a Channel Template with like symbols in front of the Channel Name, like so: (・ Channel Name)
 You can create your own Custom Rules for the Vault and the roles in Vault Settings. You can also add your own custom emojis. To add 5 more slots of 10 emojis, you need ObsidianCore. As a Basic Member, you have 2 slots, so you can upload a total of 10 custom emojis to these slots.
-You can also do Video Calls, Voice Messages, Send Reactions, Send Emojis (Custom Emojis with ObsidianCore (Premium), Send GIFS, Send ObsidianCore Gifts, Send Items and Emotes (Emotes are Emoji GIFS that the user sends to someone, and music or effects start playing on their screen based on what Emote they sent. The items are stuff to gift to them like a StreakSaver, XP Giver etc.
+You can also do Video Calls, Voice Messages, Send Reactions, Send Emojis (Custom Emojis with ObsidianCore (Premium), Send GIFS, Send ObsidianCore Gifts, Send Items and Emotes (Emotes are Emoji GIFS that the user sends to someone, and music or effects start playing on their screen based on what Emote they sent. The items are stuff to gift to them, like a StreakSaver, XP Giver, etc.
+You can also Add Users and Send Friend Requests and Message Requests. There are also ObsidianRooms. You can create up to 2 Private Rooms with a Room Code that you can join in real-time. You can join the 5 Main Rooms: The Main Room, VIP Room, Core Room, School Room, and Gaming Room.
+
+The Theme Of Obsidian ・
+
+The UI of Obsidian is Sleek, Simple, Clean, Minimal, and Very Simple UI. The colors are smooth gradients of Black, White, and Dark Grey. With some accents of white.
+The particles are smooth, right-side moving particles moving to the right with a gradient black and dark grey background.
+The font for the Big Titles is 'League Spartan' while the small texts and headers are 'Inter Bold'
 
