@@ -21,4 +21,444 @@ The icons used for the Sidebar are 'Font Awesome Icons' and don't use emojis or 
 
 The Rundown of Obsidian ・
 
-When you open the app, Obsidian will greet you with its homepage for "index.html". It's like the Discord Homepage, it has the 'League Spartan' Font for the "Obsidian" title with the particles in the back like I told you before. Then there is a button that says "Login" or "Sign Up." If you scroll down on the homepage, it has what the App has to offer, like Round Squares with the Font Awesome icon and the title of what it offers, then the description, and when you hover over it, it has a shadow. There is a smooth animation for the icon, etc. When you press login or sign up, it takes you to the /login.html page, which is the login screen, but you can press register if you don't have an account. Once you press register, you put your email, password, and then you go to the login screen and log in with that. Then you're on the /app.html. It auto-greets you and says, "Hey! Welcome to Obsidian! To get started, go to your profile!" with a button that takes you directly to your profile. Each account has its own profile and account, complete with its own servers. Then it has a button that says "Take me to my Profile!" Then it takes you to your profile, and here are all the settings on your profile. It's built like Discord's, and it has the side panel with the Account, Profile, Theme (With 4 Main Themes, White/Midnight/Black/Default), Devices (Can see your IP and where you logged in, and what device), and just a bunch of normal settings, etc. On the Account one, you can change your email, username, password, email, and log out or delete the account. On the profile settings, you can change your Profile Picture, Nickname, Bio, Pronouns, Banner, etc. With ObsidianCore, you can change your Profile Picture Frame, like it's an animated 3D Frame for the PFP, and you can change the Profile Collage, and that's like ProfileCollage color and animation, that's all with ObsidianCore. In the Obisidian App, at the bottom, you see a line with an "Add Vault" button and a "Discovery" button, and all your vaults that you are in go in there. And above the Vault List (near the bottom), above that is the Daily Feed with Announcements, and round squares and dates and names and pictures for each announcement, etc. It also has the real-time of what the user's time is, and the time moving animation is just a 3d flipping animation for the time when it changes, like seconds, minutes, etc. It also has your notifications, latest friend requests, and more stuff for the homepage. For the Vault's you can add roles, bots, all that stuff, etc. Let's move the Vault List to be on the left-hand side, going down, Kind of like Discord. You can add custom emojis and stickers to the vault. The messaging system is like Discord's. It has the message bar, with some text like: Message in "The Channel name or the User's Name", and then on the right side of the message board is the "Elements", which has the "Emoji Selection", "GIF Keyboard," "Sticker Selection", and "Gift User" which will cost money and be used with 'Stripe Payments' The emoji keyboard will be 'API'd' from "https://emoji-api.com/" and the GIF Keyboard will be from here: "https://tenor.com/developer/dashboard" and the "Sticker Selection" will be from "https://dashboard.stipop.io/auth/sign-up" and that' all! There is a secret called "The X," and you have to press these 10 keys on your keyboard, and you get "ObsidianX." It allows you to get custom backgrounds, ObsidianCore, and more. Only friends can get it. There is also a shop where you can get "Obsidian Shards" that you can pay for money, like "500 Shards for $2.99", "1000 Shards for $5.99", "5000 Shards for $10.99", "10,000 Shards for $20.99", and lastly, "50,000 Shards for $60.99" And in the shop, you can buy stuff instead of having Core. You can buy CoreBasic for $2.99 for 1 Month, which has only custom emojis and the badge on your profile. Normal Core is $9.99 for 1 Month, and it has all the perks. Here is the Release Items for the Shop: (I will link the GIF or PNG of the Animations Below) Profile Animations: "Black Flames", "Rainbow Flow", "Cute Hearts", "It's Showtime!", "Y2K Clouds" and here are the packs/bundles. "Showgirl Style Pack" about Taylor Swift's New Album: 'The Life of a Showgirl', These Colors will be a Shiny Green and Orange. Here is the "Showgirl Style Pack", "Showgirl Stars: Avatar Animation", "Books and Poetry: Avatar Animation", "Showgirl Queen: Profile Animation", "Showgirl Life: Banner", and that's the Showgirl pack. Make the other packs yourself. Make the other shop banner, profile animations, avatar animstions yourself.
+When you open the app, Obsidian will greet you with its homepage for "index.html". It's like the Discord Homepage, it has the 'League Spartan' Font for the "Obsidian" title with the particles in the back like I told you before. Then there is a button that says "Login" or "Sign Up." If you scroll down on the homepage, it has what the App has to offer, like Round Squares with the Font Awesome icon and the title of what it offers, then the description, and when you hover over it, it has a shadow. There is a smooth animation for the icon, etc. When you press login or sign up, it takes you to the /login.html page, which is the login screen, but you can press register if you don't have an account. Once you press register, you put your email, password, and then you go to the login screen and log in with that. Then you're on the /app.html. It auto-greets you and says, "Hey! Welcome to Obsidian! To get started, go to your profile!" with a button that takes you directly to your profile. Each account has its own profile and account, complete with its own servers. Then it has a button that says "Take me to my Profile!" Then it takes you to your profile, and here are all the settings on your profile. It's built like Discord's, and it has the side panel with the Account, Profile, Theme (With 4 Main Themes, White/Midnight/Black/Default), Devices (Can see your IP and where you logged in, and what device), and just a bunch of normal settings, etc. On the Account one, you can change your email, username, password, email, and log out or delete the account. On the profile settings, you can change your Profile Picture, Nickname, Bio, Pronouns, Banner, etc. With ObsidianCore, you can change your Profile Picture Frame, like it's an animated 3D Frame for the PFP, and you can change the Profile Collage, and that's like ProfileCollage color and animation, that's all with ObsidianCore. In the Obisidian App, at the bottom, you see a line with an "Add Vault" button and a "Discovery" button, and all your vaults that you are in go in there. And above the Vault List (near the bottom), above that is the Daily Feed with Announcements, and round squares and dates and names and pictures for each announcement, etc. It also has the real-time of what the user's time is, and the time moving animation is just a 3d flipping animation for the time when it changes, like seconds, minutes, etc. It also has your notifications, latest friend requests, and more stuff for the homepage. For the Vault's you can add roles, bots, all that stuff, etc. Let's move the Vault List to be on the left-hand side, going down, Kind of like Discord. You can add custom emojis and stickers to the vault. The messaging system is like Discord's. It has the message bar, with some text like: Message in "The Channel name or the User's Name", and then on the right side of the message board is the "Elements", which has the "Emoji Selection", "GIF Keyboard," "Sticker Selection", and "Gift User" which will cost money and be used with 'Stripe Payments' The emoji keyboard will be 'API'd' from "https://emoji-api.com/" and the GIF Keyboard will be from here: "https://tenor.com/developer/dashboard" and the "Sticker Selection" will be from "https://dashboard.stipop.io/auth/sign-up" and that' all! There is a secret called "The X," and you have to press these 10 keys on your keyboard, and you get "ObsidianX." It allows you to get custom backgrounds, ObsidianCore, and more. Only friends can get it. There is also a shop where you can get "Obsidian Shards" that you can pay for money, like "500 Shards for $2.99", "1000 Shards for $5.99", "5000 Shards for $10.99", "10,000 Shards for $20.99", and lastly, "50,000 Shards for $60.99" And in the shop, you can buy stuff instead of having Core. You can buy CoreBasic for $2.99 for 1 Month, which has only custom emojis and the badge on your profile. Normal Core is $9.99 for 1 Month, and it has all the perks. Here is the Release Items for the Shop: (I will link the GIF or PNG of the Animations Below) Profile Animations: "Black Flames", "Rainbow Flow", "Cute Hearts", "It's Showtime!", "Y2K Clouds," and here are the packs/bundles. "Showgirl Style Pack" about Taylor Swift's New Album: 'The Life of a Showgirl', These Colors will be a Shiny Green and Orange. Here is the "Showgirl Style Pack", "Showgirl Stars: Avatar Animation", "Books and Poetry: Avatar Animation", "Showgirl Queen: Profile Animation", "Showgirl Life: Banner", and that's the Showgirl pack. Make the other packs yourself. Make the other shop banner, profile animations, avatar animstions yourself.
+
+
+──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Here are some more ideas and stuff that I need:
+
+1. The Obsidian AI Assistant: "Oracle" ・
+You mentioned an AI Assistant, which is a fantastic idea. Let's give it a name and some specific functions:
+@Oracle Catch-Up: In a busy channel, a user can type @Oracle catch me up, and the AI will provide a brief, bullet-pointed summary of the last 50 or 100 messages.
+Magic Reply: Based on the last few messages in a conversation, Oracle can suggest 2-3 short, context-aware replies for the user to send with one click.
+Image Scribe: If a user posts an image without a description, Oracle can automatically generate alt-text for accessibility or a brief caption describing the image's content.
+Tone Analysis (ObsidianCore Perk): Before sending a message, a Core subscriber can have Oracle analyze its tone (e.g., "Friendly," "Formal," "Urgent") to help avoid miscommunication.
+
+2. Advanced Vault Customization: "Vault Blueprints" ・
+Instead of just themes, "Vault Blueprints" are pre-packaged templates that instantly set up a Vault for a specific purpose.
+Blueprint: "Streamer Community"
+Pre-made Channels: #announcements, #live-now, #general-chat, #clips-and-highlights, #suggestions, and private #mod-chat.
+Pre-configured Roles: Streamer (Owner), Moderator, VIP, Subscriber, Member.
+Integrated Bots: A pre-installed bot that automatically posts in #live-now when the streamer starts their broadcast on Twitch or YouTube.
+
+Blueprint: "Study Group"
+Pre-made Channels: #course-materials, #q-and-a, #homework-help, #study-session-vc.
+Integrated Bots: A bot with commands for setting Pomodoro timers (/pomodoro 25) and creating flashcards.
+
+Blueprint: "Indie Dev Team"
+Pre-made Channels: #design, #programming, #art-assets, #bug-reports, #build-updates.
+Integrated Bots: A bot that connects to GitHub to post updates on new code commits and issues.
+
+3. Enhanced Presence & Status ・
+Go beyond the basic online/offline indicators.
+Live Activity Status: Automatically show what game a user is playing, what song they're listening to on Spotify, or what program they're using (e.g., "Designing in Figma").
+Timed Statuses: Set a custom status that automatically clears after a set amount of time. (e.g., "In a meeting" - Clears in 1 hour).
+Vault-Specific Statuses (ObsidianCore Perk): Users can set a different status for each Vault they are in. They might be "Working on the project" in their dev team Vault but "Looking to play" in their gaming Vault.
+
+More Items for the Obsidian Shop
+Here are new categories and packs to expand the shop's offerings.
+
+New Category: Emote Packs ・
+These are the screen-wide animations you mentioned, sold in themed packs of three.
+Hype Pack ($3.99 or 400 Shards)
+"Mic Drop": An animated microphone drops from the top of the screen and shatters with a satisfying sound.
+"Air Horns": Three air horns blast from the sides of the screen with a classic hype sound effect.
+"It's a Goal!": A soccer ball flies into a net, causing confetti to erupt everywhere.
+Spooky Pack ($3.99 or 400 Shards)
+"Jump Scare": The screen briefly flashes with a ghostly face and a sharp sound effect. (Users could have a setting to disable this.)
+"Cobwebs": Animated cobwebs slowly cover the corners of the user's screen before fading away.
+"Summoning Circle": A glowing, magical circle animates in the center of the screen.
+
+New Category: UI Sound Packs (ObsidianCore Perk) ・
+Subscribers can customize their app's sound effects.
+Sound Pack: "Arcade"
+Message Send: A classic 8-bit "pew" sound.
+Notification: A coin-drop sound from an arcade machine.
+Voice Call Join: A "Player 1 Start!" voice clip.
+Sound Pack: "Nature"
+Message Send: A soft water droplet sound.
+Notification: A gentle bird chirp.
+Voice Call Join: A calm rustling of leaves.
+
+New Cosmetic Packs ・
+Solar Flare Pack
+Theme: Cosmic and fiery, with brilliant oranges, golds, and deep space blacks.
+"Solar Corona: Avatar Frame" - An animated frame of shimmering solar energy that pulses around your PFP.
+"Sunspot: Banner" - A mesmerizing, slow-motion close-up of the sun's surface with swirling plasma.
+"Supernova: Profile Animation" - A brilliant star explodes (subtly) at the top of your profile, sending shimmering particles drifting down the screen.
+"Light Speed: Avatar Animation" - Stars streak past your avatar, giving the illusion of traveling at warp speed.
+
+Noir Detective Pack
+Theme: A moody, black-and-white 1940s detective film aesthetic.
+"Private Eye: Avatar Frame" - A frame that looks like you're being viewed through the blinds of a window on a rainy night.
+"Rainy Night: Banner" - An animated banner of rain running down a window pane, with neon signs blurred in the background.
+"The Interrogation: Profile Animation" - A single, swinging light bulb illuminates the top of your profile, casting slow-moving shadows.
+"Rising Mist: Avatar Animation" - A thick, mysterious fog slowly curls and dissipates around your profile picture.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+1. "Focus Modes" Notification System
+Go beyond simple on/off switches. Users can create and schedule custom notification profiles.
+Create Profiles: A user can create modes like "Work," "Gaming," "Studying," or "Sleeping."
+Granular Rules: For each mode, you can set specific rules:
+In "Work" mode: Mute all Vaults except for [Work Project Vault]. Only allow DM notifications from [Coworkers List].
+In "Gaming" mode: Mute all notifications except for DMs and @mentions from [Gaming Friends List] in the [Gaming Vault]. Display non-intrusive pop-ups for voice call invites.
+In "Studying" mode: Mute everything except for @mentions in [Study Group Vault]. Send a summary of missed messages every hour instead of real-time pings.
+Scheduling & Automation: Automatically switch to "Work" mode from 9 AM to 5 PM on weekdays or switch to "Gaming" mode whenever a game is launched.
+
+2. Advanced Privacy Controls: "The Cloak"
+Granular Activity Status: You can control who sees your activity on a per-Vault or per-user basis. Appear offline in the "Work Vault" while still showing you're playing a game to your friends in the "Gaming Vault."
+DM Security Tiers:
+Tier 1 (Open): Anyone can DM you.
+Tier 2 (Filtered): DMs from non-friends go to a "Message Requests" folder and cannot send attachments until you accept.
+Tier 3 (Locked): Only users you have whitelisted can send you a DM. Everyone else gets an automated message: "This user is not accepting DMs at this time."
+Data Visibility: A clear, easy-to-read dashboard showing exactly what data Obsidian collects and options to opt out of non-essential tracking.
+
+3. Total Interface Customization
+Modular UI: Allow users to drag-and-drop elements of the UI. Don't like the Daily Feed on the homepage? Replace it with a "Favorite Channels" widget or a "Pinned DMs" widget.
+Custom Fonts & CSS (ObsidianCore Perk): For advanced users, allow them to upload their own fonts or apply custom CSS snippets to safely reskin their entire app experience. Obsidian would provide a "CSS Validator" to ensure snippets don't break the app or compromise security.
+Game-Changing Features (Things Discord Doesn't Have)
+These are the "killer apps" for Obsidian.
+
+1. "The Canvas": A Real-Time Collaborative Whiteboard Channel
+This isn't a separate feature; it's a new type of channel within a Vault.
+Functionality: When you open a Canvas channel, you see a shared, infinite whiteboard instead of a chat log.
+What you can do:
+Drag & Drop Anything: Drop in images, links, text boxes, and video clips directly onto the Canvas.
+Live Drawing & Annotations: Users can draw, highlight, and type on the Canvas simultaneously. See your friends' cursors moving in real time.
+Sticky Notes & To-Do Lists: Add virtual sticky notes for brainstorming or create shared to-do lists that people can check off.
+Polls & Voting: Place an interactive poll directly on the Canvas for instant group decisions.
+Use Cases: Perfect for planning a gaming strategy, collaborating on a school project, brainstorming a story, or creating a mood board. It's a visual, interactive alternative to a text channel.
+
+2. "Ambiance AI" for Voice Channels
+Allows users to add shared, ambient background soundscapes to their voice calls.
+Library of Sounds: Choose from a curated list of high-quality ambient tracks: Rainy Night, Cozy Cafe, Sci-Fi Starship Bridge, Crackling Fireplace, Forest Sounds.
+Shared Experience: Everyone in the channel hears the same ambiance, making the call feel more immersive and less sterile. The volume can be adjusted by each user individually.
+Use Cases: Great for D&D sessions (a Fantasy Tavern ambiance), study groups (Calm Library ambiance), or just chilling with friends (Lofi Beats ambiance).
+
+3. Native, Integrated Scheduling & Events
+No more relying on third-party bots.
+Event Creation: A dedicated "Events" tab within each Vault. Create an event with a title, description, date, time, and an optional image.
+RSVP System: Members can RSVP with "Going," "Maybe," or "Not Going." The event creator can see a list of attendees.
+Automated Reminders: Obsidian automatically DMs reminders to all "Going" members an hour before the event starts.
+Recurring Events: Set up weekly raid nights or monthly movie nights that auto-populate in the calendar.
+Obsidian Labs (Features Coming Soon)
+This is a special settings tab where users can opt in to test experimental new features and provide feedback.
+
+Project: "Oracle Co-Pilot" for Vaults (Alpha)
+An AI moderator that can be trained by Vault admins. It can learn the Vault's rules and automatically delete spam, welcome new members with a custom message, and even answer basic questions that are frequently asked.
+
+Project: "Instant Replay" (Beta)
+For voice channels, this feature allows users to instantly clip and share the last 30 seconds of conversation, just like in video games. Perfect for capturing hilarious moments without having to record the entire call.
+
+Project: "AR Emotes" (Concept)
+Using your phone's camera, you'll be able to project 3D animated versions of your favorite emotes into the real world.
+
+100+ More Shop Items & Ideas
+New Category: UI Theme Kits
+Complete interface overhauls that change colors, icons, and backgrounds.
+Theme Kit: "Art Deco Roar" - Black, gold, and sharp geometric patterns. Icons are replaced with brassy, stylized versions.
+Theme Kit: "Pixel Power-Up" - A retro 8-bit theme with pixelated fonts, chiptune notification sounds, and a CRT screen-line overlay.
+Theme Kit: "Cottagecore Comfort" - Soft, earthy tones, floral patterns, and rounded, friendly icons. A warm and cozy vibe.
+
+New Category: Vault Entrance Animations
+A short, flashy animation that plays for you when you join a specific Vault. It can be gifted to a Vault by its members.
+"Breaching the Gates": Two massive stone doors swing open to reveal the Vault's channels.
+"Digital Tunnel": You fly through a high-speed tunnel of light and data before arriving.
+"Stepping Stones": Magical stones appear one by one, leading you across a pond into the Vault.
+
+More Cosmetic Packs:
+Mythology Pack (Greek)
+"Gorgon's Gaze: Avatar Frame" - Animated snakes writhe and twist around your PFP.
+"Mount Olympus: Banner" - A majestic view from the clouds of Mount Olympus.
+"Icarus's Ascent: Profile Animation" - Wax and feathers drift down the sides of your profile.
+
+Steampunk Inventor Pack
+"Gearworks: Avatar Frame" - Intricate, rotating brass gears frame your profile picture.
+"The Workshop: Banner" - An animated banner showing a chaotic inventor's desk with bubbling beakers and a ticking clockwork.
+"Clockwork Heart: Profile Animation" - A beautifully complex, beating clockwork heart is displayed prominently on your profile.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Core Messaging APIs
+These are the APIs you specifically mentioned for the chat's core functionality.
+
+Emoji Keyboard
+API Provider: Emoji API
+Link: https://emoji-api.com/
+What it's for: This API provides a simple way to fetch a comprehensive and up-to-date list of all available emojis, organized by category. You'll use this to populate the emoji selection menu in your chat bar.
+
+GIF Keyboard
+API Provider: Tenor
+Link: https://developers.google.com/tenor/
+What it's for: The Tenor API is the industry standard for integrating a GIF search engine. It allows your users to search for trending GIFs, search by keyword, and share them directly within the Obsidian app.
+
+Sticker Selection
+API Provider: Stipop
+Link: https://developers.stipop.io/
+What it's for: The Stipop API gives you access to a massive library of stickers. You can integrate their sticker search and marketplace directly into your app, allowing users to find and send stickers in their chats.
+
+Monetization & Payments
+This is for handling all the in-app purchases like ObsidianCore subscriptions and Shards.
+Payments
+API Provider: Stripe
+Link: https://stripe.com/docs/api
+What it's for: Stripe is a complete payment processing platform. Its API is used to securely handle credit card payments, manage recurring subscriptions (like for ObsidianCore), and process one-time purchases (like for Shard bundles).
+
+Rich Presence & Integrations
+These APIs are for showing live activity statuses and integrating with other platforms for the "Vault Blueprints."
+Music Activity (Spotify)
+API Provider: Spotify
+Link: https://developer.spotify.com/documentation/web-api/
+What it's for: The Spotify Web API allows you to connect a user's Spotify account to Obsidian. You can use it to get information about what song they are currently listening to and display it on their profile as a live status.
+
+Game Activity (Rich Presence)
+This is more complex as there is no single API for all games. This functionality is typically achieved through a Software Development Kit (SDK) that game developers can integrate.
+Reference Link: https://discord.com/developers/docs/game-sdk/sdk-starter-guide
+How it works: You would create your own Obsidian GameBridge SDK. Game developers would then add this SDK to their games. When a user plays that game, the SDK communicates with the Obsidian app to update their status with details like what they're doing in the game, how long they've been playing, etc.
+
+Streamer Notifications (Twitch & YouTube)
+API Provider: Twitch
+Link: https://dev.twitch.tv/docs/api/
+What it's for: The Twitch API lets you check the status of a streamer's channel. You can use it to see when a specific user goes live and then automatically post a notification in your "Streamer Community" Vault.
+API Provider: YouTube
+Link: https://developers.google.com/youtube/v3/docs
+What it's for: Similar to Twitch, the YouTube Data API lets you get information about channels and live streams. You'd use this to create notifications when a YouTuber starts a live broadcast.
+
+Code Repository Updates (GitHub)
+API Provider: GitHub
+Link: https://docs.github.com/en/rest
+What it's for: The GitHub REST API allows you to interact with code repositories. You can use its "webhooks" feature to get automatic notifications for events like new code commits or bug reports and then post those updates directly into a channel in your "Indie Dev Team" Vault.
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+Here are all the API Keys, or Docs, for the stuff.
+
+Emoji API:
+Documentation
+List all emojis
+Endpoint to retrieve a list of all emojis
+
+https://emoji-api.com/emojis?access_key=123412341234
+[
+    {
+        "slug": "grinning-face",
+        "character": "\ud83d\ude00",
+        "unicodeName": "grinning face",
+        "codePoint": "1F600",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-face-with-big-eyes",
+        "character": "\ud83d\ude03",
+        "unicodeName": "grinning face with big eyes",
+        "codePoint": "1F603",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-face-with-smiling-eyes",
+        "character": "\ud83d\ude04",
+        "unicodeName": "grinning face with smiling eyes",
+        "codePoint": "1F604",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "beaming-face-with-smiling-eyes",
+        "character": "\ud83d\ude01",
+        "unicodeName": "beaming face with smiling eyes",
+        "codePoint": "1F601",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    },
+    {
+        "slug": "grinning-squinting-face",
+        "character": "\ud83d\ude06",
+        "unicodeName": "grinning squinting face",
+        "codePoint": "1F606",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    }
+]
+Search for emojis
+Endpoint to query emojis by a searchstring
+
+https://emoji-api.com/emojis?search=computer&access_key=123412341234
+[
+    {
+        "slug": "laptop-computer",
+        "character": "\ud83d\udcbb",
+        "unicodeName": "laptop computer",
+        "codePoint": "1F4BB",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "desktop-computer",
+        "character": "\ud83d\udda5\ufe0f",
+        "unicodeName": "desktop computer",
+        "codePoint": "1F5A5 FE0F",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "computer-mouse",
+        "character": "\ud83d\uddb1\ufe0f",
+        "unicodeName": "computer mouse",
+        "codePoint": "1F5B1 FE0F",
+        "group": "objects",
+        "subGroup": "computer"
+    },
+    {
+        "slug": "computer-disk",
+        "character": "\ud83d\udcbd",
+        "unicodeName": "computer disk",
+        "codePoint": "1F4BD",
+        "group": "objects",
+        "subGroup": "computer"
+    }
+]
+Get a single emoji
+Endpoint to retrieve a single emojis information
+
+https://emoji-api.com/emojis/grinning-squinting-face?access_key=123412341234
+[
+    {
+        "slug": "grinning-squinting-face",
+        "character": "\ud83d\ude06",
+        "unicodeName": "grinning squinting face",
+        "codePoint": "1F606",
+        "group": "smileys-emotion",
+        "subGroup": "face-smiling"
+    }
+]
+Get categories
+Endpoint to retrieve a list of all emoji categories
+
+https://emoji-api.com/categories?access_key=123412341234
+[
+    {
+        "slug": "smileys-emotion",
+        "subCategories": [
+            "face-smiling",
+            "face-affection",
+            "face-tongue",
+            "face-hand",
+            "face-neutral-skeptical",
+            "face-sleepy",
+            "face-unwell",
+            "face-hat",
+            "face-glasses",
+            "face-concerned",
+            "face-negative",
+            "face-costume",
+            "cat-face",
+            "monkey-face",
+            "emotion"
+        ]
+    },
+    {
+        "slug": "people-body",
+        "subCategories": [
+            "hand-fingers-open",
+            "hand-fingers-partial",
+            "hand-single-finger",
+            "hand-fingers-closed",
+            "hands",
+            "hand-prop",
+            "body-parts",
+            "person",
+            "person-gesture",
+            "person-role",
+            "person-fantasy",
+            "person-activity",
+            "person-sport",
+            "person-resting",
+            "family",
+            "person-symbol"
+        ]
+    },
+    {
+        "slug": "component",
+        "subCategories": [
+            "skin-tone",
+            "hair-style"
+        ]
+    },
+    {
+        "slug": "animals-nature",
+        "subCategories": [
+            "animal-mammal",
+            "animal-bird",
+            "animal-amphibian",
+            "animal-reptile",
+            "animal-marine",
+            "animal-bug",
+            "plant-flower",
+            "plant-other"
+        ]
+    },
+    {
+        "slug": "food-drink",
+        "subCategories": [
+            "food-fruit",
+            "food-vegetable",
+            "food-prepared",
+            "food-asian",
+            "food-marine",
+            "food-sweet",
+            "drink",
+            "dishware"
+        ]
+    }
+]
+Get emojis in a category
+Endpoint to retrieve a all emoji by a given category
+
+https://emoji-api.com/categories/travel-places?access_key=123412341234
+[
+    {
+        "slug": "globe-showing-europe-africa",
+        "character": "\ud83c\udf0d",
+        "unicodeName": "globe showing Europe-Africa",
+        "codePoint": "1F30D",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "globe-showing-americas",
+        "character": "\ud83c\udf0e",
+        "unicodeName": "globe showing Americas",
+        "codePoint": "1F30E",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "globe-showing-asia-australia",
+        "character": "\ud83c\udf0f",
+        "unicodeName": "globe showing Asia-Australia",
+        "codePoint": "1F30F",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "globe-with-meridians",
+        "character": "\ud83c\udf10",
+        "unicodeName": "globe with meridians",
+        "codePoint": "1F310",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    },
+    {
+        "slug": "world-map",
+        "character": "\ud83d\uddfa\ufe0f",
+        "unicodeName": "world map",
+        "codePoint": "1F5FA FE0F",
+        "group": "travel-places",
+        "subGroup": "place-map"
+    }
+]
+
