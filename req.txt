@@ -192,6 +192,7 @@ What it's for: This API provides a simple way to fetch a comprehensive and up-to
 GIF Keyboard
 API Provider: Tenor
 Link: https://developers.google.com/tenor/
+API Key: AIzaSyDB3EY0PtpvyeIAsnRYg-mzP2sG4qUxwMg
 What it's for: The Tenor API is the industry standard for integrating a GIF search engine. It allows your users to search for trending GIFs, search by keyword, and share them directly within the Obsidian app.
 
 Sticker Selection
@@ -204,6 +205,7 @@ This is for handling all the in-app purchases like ObsidianCore subscriptions an
 Payments
 API Provider: Stripe
 Link: https://stripe.com/docs/api
+Status: Coming Soon
 What it's for: Stripe is a complete payment processing platform. Its API is used to securely handle credit card payments, manage recurring subscriptions (like for ObsidianCore), and process one-time purchases (like for Shard bundles).
 
 Rich Presence & Integrations
@@ -211,6 +213,8 @@ These APIs are for showing live activity statuses and integrating with other pla
 Music Activity (Spotify)
 API Provider: Spotify
 Link: https://developer.spotify.com/documentation/web-api/
+Client ID: 7a03664eaf874ea28a15e3e14d6b9047
+Client Secret: 6cdc599f146f436d85b6e136737298d1
 What it's for: The Spotify Web API allows you to connect a user's Spotify account to Obsidian. You can use it to get information about what song they are currently listening to and display it on their profile as a live status.
 
 Game Activity (Rich Presence)
@@ -462,3 +466,93 @@ https://emoji-api.com/categories/travel-places?access_key=123412341234
     }
 ]
 
+Sticker Selection:
+
+Trending Search Terms
+Use the Trending Search Terms API to show search tag suggestions based on trendy searches made by users. It can be very effective to use this API with the Sticker Search API. As a default, 20 search tags are provided.
+
+Request URL
+GET
+https://messenger.stipop.io/v1/search/keyword
+
+Best Practices
+Use the language and country parameters (strongly recommended) to provide user locale information for best use. Stipop automatically tunes the sticker results so that they match your users' language preferences, cultures, and local trends. The default values for language and country are en and US.
+Use the limit parameter to have optimal sticker search tag loading. For example, set limit to '30' to show 30 search tag suggestions.
+Use other search related endpoints like Sticker Search, and Recent Search. You can also see the tutorial for Optimizing Sticker Search for more specific guides.
+Parameters
+Request Headers
+Required	Type	Description
+apikey	string	Stipop API Key for your app.
+Visit developer dashboard for new API Key.
+Request Query Parameters
+Strongly Recommended	Type	Description
+lang	string	Specify default language for regional search terms.
+Use a 2-letter ISO 639-1 language code.
+Default Value: en
+countryCode	string	Specify default country for local search terms.
+Use a 2-letter ISO 3166-1 country code.
+Default Value: US
+Optional	Type	Description
+limit	int	The maximum number of search suggestion tags.
+Default Value: 20 (max: 50)
+Example Request
+Sample Call: Trending Search Terms
+cURL
+toggle
+
+1
+curl --location --request GET "https://messenger.stipop.io/v1/search/keyword" --header "apikey:xxxxxxxxx"
+Success Response
+Success Response code 200
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+
+{
+  "header": {
+    "code": "0000",
+    "status": "success",
+    "message": "success"
+  },
+  "body": {
+    "keywordList": [
+      {
+        "keyword": "hi"
+      },
+      {
+        "keyword": "hello"
+      },
+      {
+        "keyword": "thanks"
+      }
+    ]
+  }
+}
+
+Response Format
+Attributes
+Name	Type	Description
+keyword	string	Search suggestion tag
+Error Response
+Error	Code	Description
+Description	9000	The API key used does not exist
+server error	1000	Unable to receive data from the server
